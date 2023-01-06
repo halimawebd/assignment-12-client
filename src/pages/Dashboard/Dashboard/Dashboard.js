@@ -1,13 +1,13 @@
-// import React from 'react';
+import React from 'react';
 
-// const Dashboard = () => {
-//     // console.log('dash')
+const Dashboard = () => {
+    // console.log('dash')
     
-//     return (
-//         <div>
-//             <p className='text-5xl bg-red-600'>Dashboard</p>
-//         </div>
-//     );
-// };
+    return (
+        <div>
+            <p className='text-5xl bg-red-600'>Dashboard</p>
+        </div>
+    );
+};
 
-// export default Dashboard;
+export default Dashboard;
